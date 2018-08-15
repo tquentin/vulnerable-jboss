@@ -1,5 +1,4 @@
 #!/bin/bash
-# docker run -d -p 8080:8080 --name jboss4 -e JAVA_HOME=/usr/lib/jvm/java-6-openjdk-amd64 isecure/jboss4
 
 export LC_ALL=C
 export DEBIAN_FRONTEND=noninteractive
